@@ -1,2 +1,6 @@
 this is for removal.
+<<<<<<< HEAD
 haha this is my chnage bro
+=======
+kadak hia bhai mere chnage nhi h yeh
+>>>>>>> 344f582 (kadak line added)
